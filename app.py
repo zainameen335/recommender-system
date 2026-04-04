@@ -32,7 +32,7 @@ def recommend(movie):
 st.title("Movie Recommender System")
 
 selected_movie_name = st.selectbox(
-    "how whould you like to connected?",
+    "Select the movie you like",
     movies['title'].values
 )
 
