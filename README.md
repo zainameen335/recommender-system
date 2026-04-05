@@ -36,7 +36,7 @@ The system follows these steps:
    - Extract relevant features from the dataset  
 
 3. **Vectorization**
-   - Convert text data into numerical vectors using techniques like TF-IDF or CountVectorizer  
+   - Convert text data into numerical vectors using CountVectorizer  
 
 4. **Similarity Calculation**
    - Compute similarity between items using cosine similarity  
